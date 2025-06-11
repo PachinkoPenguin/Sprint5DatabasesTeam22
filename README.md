@@ -247,7 +247,7 @@ Para obtener las capturas de pantalla necesarias, ejecutar:
 
 ## 📜 Licencia
 
-Este proyecto es parte de un ejercicio académico para el curso de Bases de Datos.
+Este proyecto es parte de un ejercicio académico para el curso de Desarrollo e implantación de sistemas de software (Gpo 102).
 
 ---
 
